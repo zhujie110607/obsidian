@@ -1,0 +1,177 @@
+{
+  "main": {
+    "id": "47fe567e8e000fbb",
+    "type": "split",
+    "children": [
+      {
+        "id": "e8fc6a2f41c97569",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3f1798cba8262d97",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "python/flask.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "66a63b3954dc4dcb",
+    "type": "split",
+    "children": [
+      {
+        "id": "c869692b51fab299",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b5ac55c20cc7e298",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "46bb5f487485f163",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e44fa31e75a251d1",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "dee58ddc70672204",
+    "type": "split",
+    "children": [
+      {
+        "id": "d5b46ed435f900b3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4d4f3b77c1590bf0",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "python/flask.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c61b7232c24e03b1",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "python/flask.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "06ba3a93913d24c8",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "178f5bda52f35f2f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "python/flask.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 383.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "audio-recorder:开始/结束录音": false,
+      "workspaces:管理工作区布局": false,
+      "obsidian-excalidraw-plugin:新建绘图文件": false
+    }
+  },
+  "active": "3f1798cba8262d97",
+  "lastOpenFiles": [
+    "百度网盘高速下载/FOFA.md",
+    "vue3_echarts/用vite创建项目并使用echarts.md",
+    "百度网盘高速下载",
+    "python/操作Outlook邮箱.md",
+    "vue3_echarts",
+    "python/flask.md",
+    "python",
+    "002/11/[百度一下，你就知道.md",
+    "002/11/pandas.md",
+    "002/python.md",
+    "Excalidraw/Drawing 2024-01-18 16.07.05.excalidraw.md",
+    "Excalidraw/Drawing 2024-01-18 15.52.46.excalidraw.md",
+    "pandas.md",
+    "002/11/附件/loading1.jpg",
+    "002/11/附件",
+    "002/附件/loading1.gif",
+    "002/附件",
+    "002/11",
+    "001/003",
+    "001/005",
+    "附件",
+    "003"
+  ]
+}
